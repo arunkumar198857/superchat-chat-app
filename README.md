@@ -4,6 +4,8 @@ This repository contains one of my personal projects called "Superchat".
 
 It is a chat app made using React.js, Node.js, Express and Socket.io
 
+Deployed @ https://arunkumar-superchat.netlify.app/
+
 
 ![GitHub contributors](https://img.shields.io/github/contributors/arunkumar198857/superchat-chat-app)
 ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Farunkumar-superchat.netlify.app%2F)
